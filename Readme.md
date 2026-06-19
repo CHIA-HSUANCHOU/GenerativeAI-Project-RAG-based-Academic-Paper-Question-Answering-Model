@@ -1,4 +1,4 @@
-# RAG-based Academic Paper Question Answering System
+# RAG-based Academic Paper Question Answering Model
 
 ---
 Project: RAG-based Academic Paper Question Answering Model
