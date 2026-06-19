@@ -1,7 +1,7 @@
 # RAG-based Academic Paper Question Answering System
 
 ---
-Project: RAG-based Academic Paper Question Answering System
+Project: RAG-based Academic Paper Question Answering Model
 
 Author: CHOU CHIA-HSUAN
 
